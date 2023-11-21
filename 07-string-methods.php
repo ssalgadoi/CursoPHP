@@ -3,8 +3,8 @@
 $nombreCliente = "Juan Pablo";
 
 // Conocer extension de un string
-echo strlen($nombreCliente);
-var_dump($nombreCliente);
+echo strlen($nombreCliente);// Nos da la longitud
+var_dump($nombreCliente);// Nos da que tipo de es  
 
 // Eliminar espacios en blanco
 $texto = trim($nombreCliente);
