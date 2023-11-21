@@ -1,5 +1,8 @@
 <?php include 'includes/header.php';
 
+
+// Arrays
+
 $cliente = [
     'nombre' => 'Juan', 
     'saldo' => 200,
