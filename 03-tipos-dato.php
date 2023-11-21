@@ -16,6 +16,7 @@ var_dump($float);
 $nombre = "Juan";
 var_dump($nombre);
 
+// Arreglos
 $array = [];
 var_dump($array);
 
