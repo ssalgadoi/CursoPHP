@@ -1,9 +1,11 @@
 <?php include 'includes/header.php';
 
+// PHP tiene dos tipos de arreglos
+
 $carrito = ['Tablet', 'Television', 'Computadora'];
 
 // Util para ver los contenidos de un array
-echo "<pre>";
+echo "<pre>";// Mejora el formato del print
 var_dump($carrito);
 echo "</pre>";
 
